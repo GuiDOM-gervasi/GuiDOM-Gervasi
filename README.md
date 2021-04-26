@@ -1,4 +1,11 @@
 ### Buenas 👋
+🔭 Aqui mi e-commerce E-commerce
+Conéctate con mi:
+https://www.linkedin.com/in/joaquin-tissera-7577831b9/
+
+Languages and Tools:
+css3 express git html5 javascript nodejs postgresql python react redux
+
 
 
 ⭐ From ABSphreak
