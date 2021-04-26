@@ -1,4 +1,6 @@
-### HOLA 👋
+### Buenas 👋
+### Yo soy Guido Gervasi, desarrollador full stack, creativo y apasionado del trabajo en equipo. Considero que la felicidad con la que alguien hace su trabajo se ve totalmente reflejada en el resultado final.
+###- 👯 Estoy buscando un trabajo donde pueda ampliar mis conocimientos.
 
 
 <!--
