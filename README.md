@@ -21,6 +21,6 @@
 <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" alt="react" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width:100%;"> </a><a href="https://redux.js.org" rel="nofollow">
 <img src="https://github.com/reduxjs/redux/raw/master/logo/logo.svg" alt="redux" width="40" height="40" style="max-width:100%;"> </a> 
 </p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/b52bf8e2dc0dad537f78088881dcd89c070b30e31fededbcae82235fbed7be47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a6f617175696e54697373657261" alt="JoaquinTissera's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=JoaquinTissera" style="max-width:100%;"></a></p>
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/b52bf8e2dc0dad537f78088881dcd89c070b30e31fededbcae82235fbed7be47/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4a6f617175696e54697373657261" alt="GuiDOM-Gervasi's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GuiDOM-Gervasi" style="max-width:100%;"></a></p>
 
 </article>
